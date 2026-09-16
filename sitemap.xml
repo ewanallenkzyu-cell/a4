@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://almondmunchy.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://almondmunchy.com/about.html</loc><priority>0.8</priority></url>
+  <url><loc>https://almondmunchy.com/services.html</loc><priority>0.8</priority></url>
+  <url><loc>https://almondmunchy.com/faq.html</loc><priority>0.7</priority></url>
+  <url><loc>https://almondmunchy.com/contact.html</loc><priority>0.8</priority></url>
+  <url><loc>https://almondmunchy.com/blog.html</loc><priority>0.8</priority></url>
+  <url><loc>https://almondmunchy.com/privacy-policy.html</loc><priority>0.5</priority></url>
+  <url><loc>https://almondmunchy.com/terms-and-conditions.html</loc><priority>0.5</priority></url>
+  <url><loc>https://almondmunchy.com/disclaimer.html</loc><priority>0.5</priority></url>
+  <url><loc>https://almondmunchy.com/cookie-policy.html</loc><priority>0.5</priority></url>
+  <url><loc>https://almondmunchy.com/blog/blog-1.html</loc><priority>0.7</priority></url>
+  <url><loc>https://almondmunchy.com/blog/blog-2.html</loc><priority>0.7</priority></url>
+  <url><loc>https://almondmunchy.com/blog/blog-3.html</loc><priority>0.7</priority></url>
+</urlset>
